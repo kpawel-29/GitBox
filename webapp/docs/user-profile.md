@@ -5,4 +5,4 @@ Profil u¿ytkownika bêdzie zawiera³ podstawowe informacje o u¿ytkowniku (login, d
 
 `profile-design.png`
 
-![alt text](resources/profile-design.png "Design"):
+![alt text](resources/img/profile-design.png "Design"):

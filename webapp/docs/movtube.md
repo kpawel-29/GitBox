@@ -1,4 +1,4 @@
-MovtubE
+![alt text](resources/img/movtube-logo.png "Logo"):
 ======
 
 1.  Opis modu³u
