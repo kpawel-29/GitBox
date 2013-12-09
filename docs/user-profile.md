@@ -5,4 +5,4 @@ Profil u¿ytkownika bêdzie zawiera³ podstawowe informacje o u¿ytkowniku (login, d
 
 `profile-design.png`
 
-![alt text](/docs/profile-design.png "Design"):
+![alt text](profile-design.png "Design"):
