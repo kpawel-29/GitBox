@@ -1,15 +1,16 @@
 GitBox
 ======
 
-GitBox - projekt strony mikroblogowej bogatej w liczne modu³y.
+GitBox - projekt strony mikroblogowej bogatej w liczne moduï¿½y.
 
-## Spis treœci (aplikacja web-owa)
+## Spis treï¿½ci (aplikacja web-owa)
 1. Opis aplikacji
 2. Komponenty
- * [rejestracja i logowanie](docs/modu³y rejestracja i logowanie.md)
- * [profil u¿ytkownika](docs/user-profile.md)
+ * [rejestracja i logowanie](docs/moduï¿½y rejestracja i logowanie.md)
+ * [profil uï¿½ytkownika](docs/user-profile.md)
  * [panel admina](docs/admin-panel.md)
-3. Modu³y
+ * [strona gÅ‚Ã³wna](docs/stronaglowna.md)
+3. Moduï¿½y
  * [mikroblog](docs/addony blog.md)
  * [movtube](docs/movtube.md)
  * [virtual drive](docs/virtual_drive.md)
