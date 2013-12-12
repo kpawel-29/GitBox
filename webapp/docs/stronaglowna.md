@@ -7,6 +7,7 @@ Strona główna zawiera :
 	* z informacjami o funkcjonalnościach serwisu i krótkiego 
 	  wprowadzenia dla początkujących
 	* z blogiem twórców
+	* strony rejestracji
 	* działu pomocy
 	
 2. Wyszukiwarkę
