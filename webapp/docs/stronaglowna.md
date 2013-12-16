@@ -18,3 +18,10 @@ Strona główna zawiera :
 	* najpopularniejsze teksty(możliwość wyboru okresu (ostatnia doba,ostatni tydzień, miesiąc))
 	* najpopularniejsze tematy (tagi)
 	* najpopularniejsi autorzy
+
+![alt text](resources/img/c.png "Wizualizacja")
+_Wizualizacja_
+
+
+
+
