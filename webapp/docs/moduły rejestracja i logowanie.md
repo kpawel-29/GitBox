@@ -16,3 +16,9 @@ Wszystkie pola są wymagane.
 Opis logowania: 
 Formularz logowania zawiera 2 pola: nick i hasło. Pod nim znajduje się przycisk powrotu do poprzedniej strony i przycisk logowania. Podawane znaki w formularzu muszą zawierać tylko litery i cyfry, podanie innych znaków spowoduje wyświetlenie odpowiedniego komunikatu „wprowadzony nick/hasło zawiera niedozwolone znaki”.
 Jeżeli wprowadzone są nie poprawne, w bazie danych nie ma podanego nicku, lub hasło się nie zgadza, zostaje wyświetlony komunikat o błędzie i pozostajemy na stronie logowania. Po poprawnym zalogowaniu się użytkownik zostaje przekierowany na stronę główną. 
+
+
+Tabele potrzebne w bazie danych: 
+Nazwa tabeli: User
+Kolumny: idUser, nick, email, hasło, addony
+
