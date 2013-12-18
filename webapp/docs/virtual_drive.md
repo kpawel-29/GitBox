@@ -1,3 +1,5 @@
+[&#8810;](../README.md) spis treści
+
 Wirtualny Dysk:
 
 Opis:

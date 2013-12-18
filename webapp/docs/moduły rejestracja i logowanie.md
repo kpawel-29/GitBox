@@ -1,3 +1,5 @@
+[&#8810;](../README.md) spis treści
+
 Opis modułów: rejestracja i zalogowanie
 
 Sekcja logowania na stonie:

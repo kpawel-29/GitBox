@@ -1,3 +1,5 @@
+[&#8810;](../README.md) spis treści
+
 Moduł “Wyszukiwarki”
 Opis:
 Wyszukiwarka ma za zadania przetworzyć zapytania na jak najlepsze wyniki.

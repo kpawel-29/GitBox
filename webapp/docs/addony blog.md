@@ -1,3 +1,5 @@
+[&#8810;](../README.md) spis treści
+
 Opis addonu – blog
 
 Jest to jeden z głównych addonów, ustawiany domyślnie jako włączony. Użytkownik posiadający ten addon będzie miał możliwość dodawania, edycji, komentowania i usuwania swoich notatek. Notatki mogą być prywatne (wyświetlane tylko dla właściciela) lub publiczne (pokazywane wszystkim). 
