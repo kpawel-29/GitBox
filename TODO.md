@@ -1,4 +1,3 @@
-
 @TODO
 
 *) Za nierobstwo i niechlujstwo oraz wieczne leniestwo skazuje Cie na zrobienie calej aplikacji desktopowej na jutro.
@@ -17,3 +16,6 @@
   + --->
   Romeq Józwiak -> Ułożenie kompontentów na stronie dla użytkownika zalogowanego i niezalogowanego!
   Dariusz Gafka -> -- / -- dla aplikacji desktopowej
+
+LINK DO USECASE'a:
+https://www.dropbox.com/s/m8yd90tknedd5i7/UseCase%20Diagram0.asta
