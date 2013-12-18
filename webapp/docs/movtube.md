@@ -15,4 +15,22 @@ Ka¿dy film bêdzie filtrowany pod k¹tem umieszczanej treœci (nieodpowiednie filmy
 Maks. czas trwania filmu: 10min
 Obs³ugiwane formaty oraz rozdzielczoœæ: [Do ustalenia] 
 
+3.  <b>Model w bazie danych (BETA)</b>
+<b>film</b>
+* <i>id</i>				(INT/LONG)		[<b>PK</b>]
+* <i>id_user</i>		(INT/LONG)		[<b>FK</b>]
+* <i>nazwa</i>			(VARCHAR)
+* <i>opis</i>			(TEXT)
+* <i>plik</i>			(VARCHAR)
+* <i>sciezka</i>		(VARCHAR)
+* <i>wyswietlenia</i>	(LONG)
+* <i>ocena</i>			(DOUBLE .1/.2)
+* <i>data_dodania</i>	(DATETIME)
 
+<b>kategoria</b>
+* <i>id</i>				(INT/LONG)		[<b>PK</b>]
+* <i>nazwa</i>			(VARCHAR)
+
+<b>film_kategoria</b>
+* <i>id_film</i>		(INT/LONG)		[<b>FK</b>]
+* <i>id_kategoria</i>	(INT/LONG)		[<b>FK</b>]
