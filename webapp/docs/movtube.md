@@ -15,7 +15,7 @@ Ka¿dy film bêdzie filtrowany pod k¹tem umieszczanej treœci (nieodpowiednie filmy
 Maks. czas trwania filmu: 10min
 Obs³ugiwane formaty oraz rozdzielczoœæ: [Do ustalenia] 
 
-3.  <b>Model w bazie danych (BETA)</b>
+3.  <b>Model w bazie danych (BETA)</b></br>
 <b>film</b>
 * <i>id</i>				(INT/LONG)		[<b>PK</b>]
 * <i>id_user</i>		(INT/LONG)		[<b>FK</b>]
