@@ -22,5 +22,8 @@ Jeżeli wprowadzone są nie poprawne, w bazie danych nie ma podanego nicku, lub 
 
 Tabele potrzebne w bazie danych: 
 Nazwa tabeli: User
-Kolumny: idUser, nick, email, hasło, addony
+Kolumny: idUser, nick, email, hasło, idAddony
+
+Nazwa tabeli: Addony
+Kolumny: idUser, idAddony
 
