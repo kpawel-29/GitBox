@@ -16,4 +16,3 @@ GitBox - projekt strony mikroblogowej bogatej w liczne moduły.
  * [virtual drive](docs/virtual_drive.md)
 4. Baza danych
  * [Baza Danych](docs/database/database.md)
-5. Credits...
