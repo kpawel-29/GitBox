@@ -1,8 +1,7 @@
 <html>
 
 <head>
-  <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-  <meta name="description" content="DBDesigner4 HTML Report">
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
   <title>DBDesigner4 HTML Report</title>
   <style>
 /* Links defaults */
@@ -45,7 +44,7 @@ div, p, td {font-family: Tahoma, Verdana, Arial, MS Sans Serif; color: black; fo
 <table cellpadding="2" cellspacing="0" border="0" width="100%" bgcolor="#e4efff">
   <tr>
     <td class="fontX">attachment
-     <font class="fontS"><br>Je�li chodzi o tworzenie struktury dla attachementow. Powinnien zosta� utworzony folder attachment w kt�rym, b�dzie tworzona struktura stricte wg podanego ni�ej algorytmu.<br>1) Pobierz 'create_date', 'idattchachment'<br>2) Rozbij 'create_date' na rok, miesi�c, dzie� <br>3) Utworz strukture w folderze attachment /rok/miesiac/dzien/idattachment<br>4) Nadaj uprawnienia<br>5) utworz plik <br>6) nadaj uprawnienia<br><br>Pobieranie attachmentu z contentow powinno by� zrobione analogicznie:<br>1) Pobierz 'create_date', 'idattachment'<br>2) Utworz stringa attachment/rok/miesiac/dzien/idattachment<br>3) pobierz z podanego pliku plik.</font></td>
+     <font class="fontS"><br>Jeżli chodzi o tworzenie struktury dla attachementow. Powinnien zosta� utworzony folder attachment w kt�rym, b�dzie tworzona struktura stricte wg podanego ni�ej algorytmu.<br>1) Pobierz 'create_date', 'idattchachment'<br>2) Rozbij 'create_date' na rok, miesi�c, dzie� <br>3) Utworz strukture w folderze attachment /rok/miesiac/dzien/idattachment<br>4) Nadaj uprawnienia<br>5) utworz plik <br>6) nadaj uprawnienia<br><br>Pobieranie attachmentu z contentow powinno by� zrobione analogicznie:<br>1) Pobierz 'create_date', 'idattachment'<br>2) Utworz stringa attachment/rok/miesiac/dzien/idattachment<br>3) pobierz z podanego pliku plik.</font></td>
   </tr>
   <tr>
     <td>
