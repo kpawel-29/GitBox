@@ -8,7 +8,7 @@
 
 <table cellpadding="2" cellspacing="0" border="0" width="100%" bgcolor="#e4efff">
   <tr>
-    <td class="fontX">attachment
+    <td class="fontX"><b>attachment</b>
      <font class="fontS"><br>Jeżli chodzi o tworzenie struktury dla attachementow. Powinnien zostać utworzony folder attachment w którym, będzie tworzona struktura stricte wg podanego niżej algorytmu.<br>1) Pobierz 'create_date', 'idattchachment'<br>2) Rozbij 'create_date' na rok, miesiąc, dzień <br>3) Utworz strukture w folderze attachment /rok/miesiac/dzien/idattachment<br>4) Nadaj uprawnienia<br>5) utworz plik <br>6) nadaj uprawnienia<br><br>Pobieranie attachmentu z contentow powinno być zrobione analogicznie:<br>1) Pobierz 'create_date', 'idattachment'<br>2) Utworz stringa attachment/rok/miesiąc/dzień/idattachment<br>3) pobierz z podanego pliku plik.</font></td>
   </tr>
   <tr>
@@ -126,7 +126,7 @@
 <br>
 <table cellpadding="2" cellspacing="0" border="0" width="100%" bgcolor="#e4efff">
   <tr>
-    <td class="fontX">banned_ip
+    <td class="fontX"><b>banned_ip</b>
      <font class="fontS"><br>Tabela opisująca adresy ip, które zostały z banowane.<br></font></td>
   </tr>
   <tr>
@@ -219,7 +219,7 @@
 <br>
 <table cellpadding="2" cellspacing="0" border="0" width="100%" bgcolor="#e4efff">
   <tr>
-    <td class="fontX">category
+    <td class="fontX"><b>category</b>
      <font class="fontS"><br>Tabela opisująca posczególne kategorie dostępne dla elementów menu.</font></td>
   </tr>
   <tr>
@@ -292,7 +292,7 @@
 <br>
 <table cellpadding="2" cellspacing="0" border="0" width="100%" bgcolor="#e4efff">
   <tr>
-    <td class="fontX">comment_2
+    <td class="fontX"><b>comment_2</b>
      <font class="fontS"><br>Komentarze dodane przez użytkowników do danego contentu. (B�dzie potrzebne w module bloga)</font></td>
   </tr>
   <tr>
@@ -400,7 +400,7 @@
 <br>
 <table cellpadding="2" cellspacing="0" border="0" width="100%" bgcolor="#e4efff">
   <tr>
-    <td class="fontX">content
+    <td class="fontX"><b>content</b>
      <font class="fontS"><br>Tabla odpowiadająca za treści dodawane do menu. <br>Należy przyjąć, że w jednym elemencie menu można dodać, tylko jeden content. <br>(Jeżli bedzie taka potrzeba będzie można zmienić na wiele-do-wielu)<br><br></font></td>
   </tr>
   <tr>
@@ -603,7 +603,7 @@
 <br>
 <table cellpadding="2" cellspacing="0" border="0" width="100%" bgcolor="#e4efff">
   <tr>
-    <td class="fontX">content_type
+    <td class="fontX"><b>content_type</b>
      <font class="fontS"><br> typ -> Rodzaj contentu<br>1 -> publiczny<br>2 -> prywanty<br>3 -> udost�pniony (tylko dla wybranych użytkowników)<br></font></td>
   </tr>
   <tr>
@@ -666,7 +666,7 @@
 <br>
 <table cellpadding="2" cellspacing="0" border="0" width="100%" bgcolor="#e4efff">
   <tr>
-    <td class="fontX">logs_2
+    <td class="fontX"><b>logs_2</b>
      <font class="fontS"><br>Tabela przechowująca logi, dotycz�ce nieudanych logowań, oraz rzeczy powiązanych z istotnymi informacjami.</font></td>
   </tr>
   <tr>
@@ -739,7 +739,7 @@
 <br>
 <table cellpadding="2" cellspacing="0" border="0" width="100%" bgcolor="#e4efff">
   <tr>
-    <td class="fontX">menu
+    <td class="fontX"><b>menu</b>
      <font class="fontS"><br>Tabela menu jak wskazuje sama nazwa odpowiada za elementy menu na stronie.<br>Elementy menu na stronie powinny być generowane na podstawie algorytmu:<br>1) Pobierz wszystkie elementy o parent = null<br>2) Po kliknieciu przez użytkownika na dany element menu, pobrać  elementy, które zawierają  parent = klikniety element id<br>3) A następnie sprawdzić, czy dany element menu zawiera contenty (nie jest powiedziane, że element, kt�ry nie będzie niczyjm parentem, ma zawierać jako jedyny content) <br><br>Nie powinno przeładowywać strony, jeżli element menu nie zawiera contentu. </font></td>
   </tr>
   <tr>
@@ -872,7 +872,7 @@
 <br>
 <table cellpadding="2" cellspacing="0" border="0" width="100%" bgcolor="#e4efff">
   <tr>
-    <td class="fontX">module
+    <td class="fontX"><b>module</b>
      <font class="fontS"><br>Tabela moduł, odpowiada za moduły, które zostały dodane na sztywno.</font></td>
   </tr>
   <tr>
@@ -945,7 +945,7 @@
 <br>
 <table cellpadding="2" cellspacing="0" border="0" width="100%" bgcolor="#e4efff">
   <tr>
-    <td class="fontX">user_account
+    <td class="fontX"><b>user_account</b>
      <font class="fontS"><br>Tabela opisująca użytkowników na stronie.<br><br>Jedny atrybut wymagający wyjaśnienia, to status:<br>status = 'A' -> User jest aktywny<br>status = 'N' -> Czeka na weryfikacje<br>status = 'B' -> User zbanowany.</font></td>
   </tr>
   <tr>
@@ -1068,7 +1068,7 @@
 <br>
 <table cellpadding="2" cellspacing="0" border="0" width="100%" bgcolor="#e4efff">
   <tr>
-    <td class="fontX">user_account_has_content_type
+    <td class="fontX"><b>user_account_has_content_type</b>
      <font class="fontS"><br>Jeżli typ contentu = 3 (Udostąpniony), wtedy tabela będzie przetrzymywać id userów, którzy mają dostęp<br>do contentu</font></td>
   </tr>
   <tr>
@@ -1141,7 +1141,7 @@
 <br>
 <table cellpadding="2" cellspacing="0" border="0" width="100%" bgcolor="#e4efff">
   <tr>
-    <td class="fontX">user_account_has_module
+    <td class="fontX"><b>user_account_has_module</b>
      <font class="fontS"><br>Wybrane przez usera uruchomione modu�y.</font></td>
   </tr>
   <tr>
@@ -1214,7 +1214,7 @@
 <br>
 <table cellpadding="2" cellspacing="0" border="0" width="100%" bgcolor="#e4efff">
   <tr>
-    <td class="fontX">user_description
+    <td class="fontX"><b>user_description</b>
      <font class="fontS"><br>description -> Opis dodany przez użytkownika, potrzebny do panelu  ''O mnie"<br>hit -> licznik odwiedzin "O mnie"</font></td>
   </tr>
   <tr>
@@ -1317,7 +1317,7 @@
 <br>
 <table cellpadding="2" cellspacing="0" border="0" width="100%" bgcolor="#e4efff">
   <tr>
-    <td class="fontX">user_type
+    <td class="fontX"><b>user_type</b>
      <font class="fontS"><br>Tabela opisująca typy userów<br><br>admin_level -> levele uprawnień: <br>0 -> user<br>1 -> moderator<br>2 -> global moderator<br>3 -> admin<br><br>Role i uprawnienia poszczególnych userów do uzgodnienia.</font></td>
   </tr>
   <tr>
