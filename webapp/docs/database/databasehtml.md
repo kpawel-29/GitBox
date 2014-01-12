@@ -2,7 +2,6 @@
 
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-  <title>DBDesigner4 HTML Report</title>
   <style>
 /* Links defaults */
 
@@ -39,12 +38,10 @@ div, p, td {font-family: Tahoma, Verdana, Arial, MS Sans Serif; color: black; fo
 
 <body>
 
-<p class="fontX">Database Model plugin_tmp.xml<hr></p>
-
 <table cellpadding="2" cellspacing="0" border="0" width="100%" bgcolor="#e4efff">
   <tr>
     <td class="fontX">attachment
-     <font class="fontS"><br>Jeżli chodzi o tworzenie struktury dla attachementow. Powinnien zosta� utworzony folder attachment w kt�rym, b�dzie tworzona struktura stricte wg podanego ni�ej algorytmu.<br>1) Pobierz 'create_date', 'idattchachment'<br>2) Rozbij 'create_date' na rok, miesi�c, dzie� <br>3) Utworz strukture w folderze attachment /rok/miesiac/dzien/idattachment<br>4) Nadaj uprawnienia<br>5) utworz plik <br>6) nadaj uprawnienia<br><br>Pobieranie attachmentu z contentow powinno by� zrobione analogicznie:<br>1) Pobierz 'create_date', 'idattachment'<br>2) Utworz stringa attachment/rok/miesiac/dzien/idattachment<br>3) pobierz z podanego pliku plik.</font></td>
+     <font class="fontS"><br>Jeżli chodzi o tworzenie struktury dla attachementow. Powinnien zostać utworzony folder attachment w którym, będzie tworzona struktura stricte wg podanego niżej algorytmu.<br>1) Pobierz 'create_date', 'idattchachment'<br>2) Rozbij 'create_date' na rok, miesiąc, dzień <br>3) Utworz strukture w folderze attachment /rok/miesiac/dzien/idattachment<br>4) Nadaj uprawnienia<br>5) utworz plik <br>6) nadaj uprawnienia<br><br>Pobieranie attachmentu z contentow powinno być zrobione analogicznie:<br>1) Pobierz 'create_date', 'idattachment'<br>2) Utworz stringa attachment/rok/miesiąc/dzień/idattachment<br>3) pobierz z podanego pliku plik.</font></td>
   </tr>
   <tr>
     <td>
@@ -162,7 +159,7 @@ div, p, td {font-family: Tahoma, Verdana, Arial, MS Sans Serif; color: black; fo
 <table cellpadding="2" cellspacing="0" border="0" width="100%" bgcolor="#e4efff">
   <tr>
     <td class="fontX">banned_ip
-     <font class="fontS"><br>Tabela opisuj�ca adresy ip, kt�re zosta�y z banowane.<br></font></td>
+     <font class="fontS"><br>Tabela opisująca adresy ip, które zostały z banowane.<br></font></td>
   </tr>
   <tr>
     <td>
@@ -255,7 +252,7 @@ div, p, td {font-family: Tahoma, Verdana, Arial, MS Sans Serif; color: black; fo
 <table cellpadding="2" cellspacing="0" border="0" width="100%" bgcolor="#e4efff">
   <tr>
     <td class="fontX">category
-     <font class="fontS"><br>Tabela opisuj�ca posczeg�lne kategorie dost�pne dla element�w menu.</font></td>
+     <font class="fontS"><br>Tabela opisująca posczególne kategorie dostępne dla elementów menu.</font></td>
   </tr>
   <tr>
     <td>
@@ -328,7 +325,7 @@ div, p, td {font-family: Tahoma, Verdana, Arial, MS Sans Serif; color: black; fo
 <table cellpadding="2" cellspacing="0" border="0" width="100%" bgcolor="#e4efff">
   <tr>
     <td class="fontX">comment_2
-     <font class="fontS"><br>Komentarze dodane przez u�ytkownik�w do danego contentu. (B�dzie potrzebne w module bloga)</font></td>
+     <font class="fontS"><br>Komentarze dodane przez użytkowników do danego contentu. (B�dzie potrzebne w module bloga)</font></td>
   </tr>
   <tr>
     <td>
@@ -436,7 +433,7 @@ div, p, td {font-family: Tahoma, Verdana, Arial, MS Sans Serif; color: black; fo
 <table cellpadding="2" cellspacing="0" border="0" width="100%" bgcolor="#e4efff">
   <tr>
     <td class="fontX">content
-     <font class="fontS"><br>Tabla odpowiadaj�ca za tre�ci dodawane do menu. <br>Nale�y przyj��, �e w jednym elemencie menu mo�e zosta� dodany, tylko jeden content. <br>(Je�li bedzie taka potrzeba b�dzie mo�na zmieni� na wiele-do-wielu)<br><br></font></td>
+     <font class="fontS"><br>Tabla odpowiadająca za treści dodawane do menu. <br>Należy przyjąć, że w jednym elemencie menu można dodać, tylko jeden content. <br>(Jeżli bedzie taka potrzeba będzie można zmienić na wiele-do-wielu)<br><br></font></td>
   </tr>
   <tr>
     <td>
@@ -639,7 +636,7 @@ div, p, td {font-family: Tahoma, Verdana, Arial, MS Sans Serif; color: black; fo
 <table cellpadding="2" cellspacing="0" border="0" width="100%" bgcolor="#e4efff">
   <tr>
     <td class="fontX">content_type
-     <font class="fontS"><br> typ -> Rodzaj contentu<br>1 -> publiczny<br>2 -> prywanty<br>3 -> udost�pniony (tylko dla wybranych u�ytkownik�w)<br></font></td>
+     <font class="fontS"><br> typ -> Rodzaj contentu<br>1 -> publiczny<br>2 -> prywanty<br>3 -> udost�pniony (tylko dla wybranych użytkowników)<br></font></td>
   </tr>
   <tr>
     <td>
@@ -702,7 +699,7 @@ div, p, td {font-family: Tahoma, Verdana, Arial, MS Sans Serif; color: black; fo
 <table cellpadding="2" cellspacing="0" border="0" width="100%" bgcolor="#e4efff">
   <tr>
     <td class="fontX">logs_2
-     <font class="fontS"><br>Tabela przechowuj�ca logi, dotycz�ce nieudanych logowa�, oraz rzeczy powi�zanych z istotnymi informacjami.</font></td>
+     <font class="fontS"><br>Tabela przechowująca logi, dotycz�ce nieudanych logowań, oraz rzeczy powiązanych z istotnymi informacjami.</font></td>
   </tr>
   <tr>
     <td>
@@ -775,7 +772,7 @@ div, p, td {font-family: Tahoma, Verdana, Arial, MS Sans Serif; color: black; fo
 <table cellpadding="2" cellspacing="0" border="0" width="100%" bgcolor="#e4efff">
   <tr>
     <td class="fontX">menu
-     <font class="fontS"><br>Tabela menu jak wskazuje sama nazwa odpowiada za elementy menu na stronie.<br>Elementy menu na stronie powinny by� generowane na podstawie algorytmu:<br>1) Pobierz wszystkie elementy o parent = null<br>2) Po kliknieciu przez u�ytkownika na dany element menu, pobra�  elementy, kt�re zawieraj�  parent = klikniety element id<br>3) A nast�pnie sprawdzi�, czy dany element menu zawiera contenty (nie jest powiedziane, �e element, kt�ry nie b�dzie niczyjm parentem, ma zawiera� jako jedyny content) <br><br>Nie powinno prze�adowywa� si� strony, je�li element menu nie zawiera contentu. </font></td>
+     <font class="fontS"><br>Tabela menu jak wskazuje sama nazwa odpowiada za elementy menu na stronie.<br>Elementy menu na stronie powinny być generowane na podstawie algorytmu:<br>1) Pobierz wszystkie elementy o parent = null<br>2) Po kliknieciu przez użytkownika na dany element menu, pobrać  elementy, które zawierają  parent = klikniety element id<br>3) A następnie sprawdzić, czy dany element menu zawiera contenty (nie jest powiedziane, że element, kt�ry nie będzie niczyjm parentem, ma zawierać jako jedyny content) <br><br>Nie powinno przeładowywać strony, jeżli element menu nie zawiera contentu. </font></td>
   </tr>
   <tr>
     <td>
@@ -908,7 +905,7 @@ div, p, td {font-family: Tahoma, Verdana, Arial, MS Sans Serif; color: black; fo
 <table cellpadding="2" cellspacing="0" border="0" width="100%" bgcolor="#e4efff">
   <tr>
     <td class="fontX">module
-     <font class="fontS"><br>Tabela modu�, odpowiada za modu�y, kt�re zosta�y dodane na sztywno.</font></td>
+     <font class="fontS"><br>Tabela moduł, odpowiada za moduły, które zostały dodane na sztywno.</font></td>
   </tr>
   <tr>
     <td>
@@ -981,7 +978,7 @@ div, p, td {font-family: Tahoma, Verdana, Arial, MS Sans Serif; color: black; fo
 <table cellpadding="2" cellspacing="0" border="0" width="100%" bgcolor="#e4efff">
   <tr>
     <td class="fontX">user_account
-     <font class="fontS"><br>Tabela opisuj�ca u�ytkownik�w na stronie.<br><br>Jedny atrybut wymagaj�cy wyja�nienia, to status:<br>status = 'A' -> User jest aktywny<br>status = 'N' -> Czeka na weryfikacje<br>status = 'B' -> User zbanowany.</font></td>
+     <font class="fontS"><br>Tabela opisująca użytkowników na stronie.<br><br>Jedny atrybut wymagający wyjaśnienia, to status:<br>status = 'A' -> User jest aktywny<br>status = 'N' -> Czeka na weryfikacje<br>status = 'B' -> User zbanowany.</font></td>
   </tr>
   <tr>
     <td>
@@ -1104,7 +1101,7 @@ div, p, td {font-family: Tahoma, Verdana, Arial, MS Sans Serif; color: black; fo
 <table cellpadding="2" cellspacing="0" border="0" width="100%" bgcolor="#e4efff">
   <tr>
     <td class="fontX">user_account_has_content_type
-     <font class="fontS"><br>Je�li typ contentu = 3 (Udost�pniony), wtedy tabela b�dzie przetrzymywa� id user�w, kt�rzy maj� dost�p<br>do contentu</font></td>
+     <font class="fontS"><br>Jeżli typ contentu = 3 (Udostąpniony), wtedy tabela będzie przetrzymywać id userów, którzy mają dostęp<br>do contentu</font></td>
   </tr>
   <tr>
     <td>
@@ -1250,7 +1247,7 @@ div, p, td {font-family: Tahoma, Verdana, Arial, MS Sans Serif; color: black; fo
 <table cellpadding="2" cellspacing="0" border="0" width="100%" bgcolor="#e4efff">
   <tr>
     <td class="fontX">user_description
-     <font class="fontS"><br>description -> Opis dodany przez u�ytkownika, potrzebny do panelu  ''O mnie"<br>hit -> licznik odwiedzin "O mnie"</font></td>
+     <font class="fontS"><br>description -> Opis dodany przez użytkownika, potrzebny do panelu  ''O mnie"<br>hit -> licznik odwiedzin "O mnie"</font></td>
   </tr>
   <tr>
     <td>
@@ -1353,7 +1350,7 @@ div, p, td {font-family: Tahoma, Verdana, Arial, MS Sans Serif; color: black; fo
 <table cellpadding="2" cellspacing="0" border="0" width="100%" bgcolor="#e4efff">
   <tr>
     <td class="fontX">user_type
-     <font class="fontS"><br>Tabela opisuj�ca typy user�w<br><br>admin_level -> levele uprawnie�: <br>0 -> user<br>1 -> moderator<br>2 -> global moderator<br>3 -> admin<br><br>Role i uprawnienia poszczeg�lnych user�w do uzgodnienia.</font></td>
+     <font class="fontS"><br>Tabela opisująca typy userów<br><br>admin_level -> levele uprawnień: <br>0 -> user<br>1 -> moderator<br>2 -> global moderator<br>3 -> admin<br><br>Role i uprawnienia poszczególnych userów do uzgodnienia.</font></td>
   </tr>
   <tr>
     <td>
