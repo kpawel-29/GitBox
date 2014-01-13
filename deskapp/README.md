@@ -3,7 +3,7 @@
 
 Aplikacji desktopowa, jak sama nazwa wskazuje, będzie aplikacją uruchamianą z poziomu systemu. 
 <br/>
-Aplikacja ta, będzie napisana w całości w javie. 
+Aplikacja ta, będzie napisana w całości w języku Java/C#. 
 <br/>
 <b>Zasada działania tejże aplikacji:</b>
 <br/>
