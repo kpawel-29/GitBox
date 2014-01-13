@@ -22,3 +22,6 @@ Aplikacja ta, będzie napisana w całości w języku Java/C#.
 <br/>	-Wysłaniem gotowego formularza do bazy danych
 <br/>
 Połączenia będą szyfrowane (SSL)
+
+
+ * [Diagram](docs/diagrams/usecaseDesktop.png)
