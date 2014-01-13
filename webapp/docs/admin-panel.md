@@ -2,6 +2,6 @@
 
 Panel Administratora: Opis: Panel administratora bêdzie mia³ za zadanie wspomóc administratora w codzienniej pracy, aby czeœæ problemów mog³a byæ przetworzona za pomoc¹ strony, bez bawienia siê w zmienianie kodu Ÿród³owego.
 
-Funkcjonaloœæ: Panel administratora, bedzie panelem do ob³ugi aplikacji webowej z poziomu frontu. Panel bêdzie zawiera³: -”U¿ytkownicy” - bêdzie mo¿na przejrzeæ tutaj wszystkich zarejestrowanych u¿ytkowników oraz zarz¹dzaæ nimi. (Nadaæ/Usun¹æ uprawnienia, zbanowaæ/odbanowaæ, przejrzeæ podstawowe informacje takie jak: do kiedy zbanowany, od kiedy zarejestrowany) -”Strona” - bêdzie mo¿na tutaj zmieniæ/dodaæ newsy, dla g³ównej strony manualnie. -”Blokowanie IP” - zablokowanie podanego ip, przed przegl¹daniem strony -”Statystyki” - Statystyki strony.
+Funkcjonaloœæ: Panel administratora, bedzie panelem do ob³ugi aplikacji webowej z poziomu frontu. Panel bêdzie zawiera³: -”U¿ytkownicy” - bêdzie mo¿na przejrzeæ tutaj wszystkich zarejestrowanych u¿ytkowników oraz zarz¹dzaæ nimi. (Nadaæ/Usun¹æ uprawnienia, zbanowaæ/odbanowaæ, przejrzeæ podstawowe informacje takie jak: do kiedy zbanowany, od kiedy zarejestrowany), usun¹æ artyku³, usun¹æ komentarz. -”Strona” - bêdzie mo¿na tutaj zmieniæ/dodaæ newsy, dla g³ównej strony manualnie. -”Blokowanie IP” - zablokowanie podanego ip, przed przegl¹daniem strony -”Statystyki” - Statystyki strony.
 
 Zabezpieczenia: Automatyczny redirect na stronê g³ówn¹ jeœli, u¿ytkownik nie jest administratorem. Odnotowanie takiej próby zalogowania w logach.
