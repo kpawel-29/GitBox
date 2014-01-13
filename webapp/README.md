@@ -15,7 +15,8 @@ GitBox - projekt strony mikroblogowej bogatej w liczne moduły.
  * [movtube](docs/movtube.md)
  * [virtual drive](docs/virtual_drive.md)
 <br/>
- * [Baza Danych](docs/database/database.md)
- * [Diagram UseCase] (docs/diagrams/usecaseWeb.png)
- * [Diagram DFD] (docs/diagrams/dfdWeb.png)
- * ### [Przykładowy szablon strony] (docs/resources/img/template.png)
+* [Baza Danych](docs/database/database.md)
+* [Diagram UseCase] (docs/diagrams/usecaseWeb.png)
+* [Diagram DFD] (docs/diagrams/dfdWeb.png)
+
+* [Przykładowy szablon strony] (docs/resources/img/template.png)
