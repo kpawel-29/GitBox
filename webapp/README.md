@@ -1,7 +1,7 @@
 GitBox
 ======
 
-GitBox - projekt strony mikroblogowej bogatej w liczne moduły.
+GitBox - projekt strony mikroblogowej rozszerzonej o moduły.
 
 ## Spis treści (aplikacja web-owa)
 1. Opis aplikacji
