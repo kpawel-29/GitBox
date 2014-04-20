@@ -8,8 +8,6 @@ osoby w zespole:
 - 4) Korszuń Kacper
 
 
-## Aplikacja
-1. Opis aplikacji webowej
-[Tutaj](webapp/README.md)
-2. Opis aplikacji desktopowej
-[Tutaj](deskapp/README.md)
+<br />
+
+>###[Opis aplikacji webowej](webapp/README.md)
